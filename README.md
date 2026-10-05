@@ -19,5 +19,3 @@ Embedded Systems & IoT (Aug - Nov 2026) — Lab Exercise: Schematics with ESP32
 - `Part-B/Parallel-Circuit/` — parallel circuit (20 Ω, 100 Ω, 50 Ω at 125 V): schematic and component table.
 - `Part-B/ESP32-DHT22/` — ESP32 with DHT22 temperature and humidity sensor: schematic and component table.
 
-### Proof of group discussion
-- `Proof/proof.pdf`
